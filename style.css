@@ -15,6 +15,10 @@ h1 {    font-family: 'Bungee Spice', cursive;
 	text-align: center;
 }
 
+#fundo {
+	color: blanchedalmond;
+}
+
 p {    font-family: 'Bungee Spice', cursive;
 	
 	color: aliceblue;
