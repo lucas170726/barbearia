@@ -16,12 +16,18 @@ h1 {    font-family: 'Bungee Spice', cursive;
 }
 
 p {    font-family: 'Bungee Spice', cursive;
+	
 	color: aliceblue;
     font-family: 'Rubik Dirt', cursive;
-    color: aliceblue;
+    
     font-family: 'Silkscreen', cursive;
 	text-align: center;
 }
 
+
+li {
+	color: aliceblue;
+	font-size: ;
+}
 
 
