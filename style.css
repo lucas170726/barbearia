@@ -15,7 +15,11 @@ h1 {    font-family: 'Bungee Spice', cursive;
 	text-align: center;
 }
 
-p {
+p {    font-family: 'Bungee Spice', cursive;
+
+    font-family: 'Rubik Dirt', cursive;
+
+    font-family: 'Silkscreen', cursive;
 	text-align: center;
 }
 
