@@ -7,7 +7,11 @@ body {
 	padding: 0;
 }
 
-h1 {
+h1 {    font-family: 'Bungee Spice', cursive;
+
+    font-family: 'Silkscreen', cursive;
+
+
 	text-align: center;
 }
 
