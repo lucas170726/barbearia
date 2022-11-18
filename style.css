@@ -2,8 +2,17 @@
 		display: inline;
 		text-decoration: none;
 		text-transform: uppercase;
+		padding: 5%;
 	}
-
+	
+	nav {
+	  width: 940px;
+	}
+	nav a{
+	  font-size: 35px;
+	  color: rgb(17, 21, 224);
+	  text-decoration: none;
+	}
 
 #banner {
 	width: 100%;
